@@ -1,0 +1,5 @@
+require 'brhiner.globals'
+require 'brhiner.options'
+require 'brhiner.keymaps'
+require 'brhiner.autocommands'
+require 'brhiner.lazy'
